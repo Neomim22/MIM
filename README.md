@@ -1,4 +1,4 @@
-# MIM
+# Shahriar Mim
 Programing language (HTML,CSS,Bootstrap)
 Used basic tags like notepad,notepad++.
 Later I moved on to visual studio becasue i felt it's much easier and enjoyed working with it.
